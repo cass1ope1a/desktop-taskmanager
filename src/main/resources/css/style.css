@@ -1,0 +1,15 @@
+.root {
+    -fx-font-size: 14px;
+
+.button {
+    -fx-min-height: 32px;
+    -fx-min-width: 64px;
+}
+
+.table-row-cell {
+    -fx-background-color: #E8ECEA;
+    -fx-cell-size: 32px;
+    -fx-effect: dropshadow(gaussian, #000000, 2, 0.25, 2, 4);
+
+}
+
