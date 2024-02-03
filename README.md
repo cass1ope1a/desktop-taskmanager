@@ -1,4 +1,4 @@
-# How to Run the Task Manager Application
+# How to Run
 
 **Prerequisites:**
 - [Java](https://www.java.com/) installed on your machine.
