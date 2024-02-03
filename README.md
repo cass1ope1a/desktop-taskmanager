@@ -15,11 +15,7 @@
     ```bash
     cd desktop-taskmanager
     ```
-3. **Build the Project using Maven:** <br>
+3. **Run the Application:** <br>
     ```bash
-    mvn clean install
-    ```
-4. **Run the Application:** <br>
-    ```bash 
-    java -jar target/desktop-taskmanager-1.0.jar
+    mvn clean javafx:run
     ```
