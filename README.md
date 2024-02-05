@@ -52,7 +52,7 @@
 
 <br>
 
-### Task's detailed information
+### Detailed task information
 
 ![Task Manager - Task Details](screenshots/task_details.png)
 
