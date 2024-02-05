@@ -1,4 +1,4 @@
-# How to Run
+## How to Run
 
 **Prerequisites:**
 - [Java](https://www.java.com/), [JDK 21](https://www.oracle.com/java/technologies/downloads/#java21), [Maven 3.9.6](https://maven.apache.org/download.cgi) and [Git](https://git-scm.com/) installed.
