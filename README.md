@@ -37,16 +37,23 @@
 
 
 ## Screenshots
-
-![Task Manager - Main Page](screenshots/main.png)
 *Main page of the Task Manager.*
 
-![Task Manager - Create Task](screenshots/create.png)
+![Task Manager - Main Page](screenshots/main.png)
+
+<hr><br>
+
 *Task creation form*
 
-![Task Manager - Task Details](screenshots/task_details.png)
+![Task Manager - Create Task](screenshots/create.png)
+
+<hr><br>
+
 *Task's detailed information*
 
-<hr>
+![Task Manager - Task Details](screenshots/task_details.png)
+
+
+<hr><br>
 
 **Note**: This is an early version of the project, and certain features may be under development or incomplete
