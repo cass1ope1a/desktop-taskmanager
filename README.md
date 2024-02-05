@@ -19,6 +19,7 @@
     ```bash
     mvn clean javafx:run
     ```
+<br>
 
 ## Features
 
@@ -34,22 +35,23 @@
 ### Detailed Task Information:
 - View detailed information about the task
 
-
+<hr><br>
 
 ## Screenshots
-*Main page of the Task Manager.*
+
+### Main page of the Task Manager
 
 ![Task Manager - Main Page](screenshots/main.png)
 
-<hr><br>
+<br>
 
-*Task creation form*
+### Task creation form
 
 ![Task Manager - Create Task](screenshots/create.png)
 
-<hr><br>
+<br>
 
-*Task's detailed information*
+### Task's detailed information
 
 ![Task Manager - Task Details](screenshots/task_details.png)
 
