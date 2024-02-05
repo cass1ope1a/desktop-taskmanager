@@ -3,7 +3,7 @@
 **Prerequisites:**
 - [Java](https://www.java.com/), [JDK 21](https://www.oracle.com/java/technologies/downloads/#java21), [Maven 3.9.6](https://maven.apache.org/download.cgi) and [Git](https://git-scm.com/) installed.
 - Ensure that the `JAVA_HOME` environment variable points to your installed JDK
-- Add `path\to\your\maven\bin` to your PATH variable.
+- Add `path/to/your/maven/bin` to your PATH variable.
 
 **Steps:**
 1. **Clone the Repository:** <br>
@@ -19,6 +19,7 @@
     ```bash
     mvn clean javafx:run
     ```
+    
 <hr><br>
 
 ## Features
@@ -54,7 +55,6 @@
 ### Task's detailed information
 
 ![Task Manager - Task Details](screenshots/task_details.png)
-
 
 <hr><br>
 
