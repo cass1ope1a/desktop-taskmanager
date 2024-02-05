@@ -13,7 +13,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <junit.version>5.9.1</junit.version>
         <com.fasterxml.jackson.version>2.11.3</com.fasterxml.jackson.version>
-        <lombok.version>1.18.28</lombok.version>
+        <lombok.version>1.18.30</lombok.version>
         <javafx.version>21.0.2</javafx.version>
     </properties>
 
