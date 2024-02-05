@@ -19,7 +19,7 @@
     ```bash
     mvn clean javafx:run
     ```
-<br>
+<hr><br>
 
 ## Features
 
