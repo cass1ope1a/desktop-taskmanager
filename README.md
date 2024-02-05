@@ -9,7 +9,7 @@
 1. **Clone the Repository:** <br>
    Open a terminal or command prompt and clone the Task Manager repository to your local machine.
     ```bash
-    git clone git@github.com:cass1ope1a/desktop-taskmanager.git
+    git clone https://github.com/cass1ope1a/desktop-taskmanager.git
     ```
 2. **Navigate to the Task Manager project directory:** <br>
     ```bash
